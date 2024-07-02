@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DaysInMonth {
+public class DayInMonth {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a month number (1-12): ");
